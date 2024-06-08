@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.victor-mono-logo {
+    font-family: "Victor Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+    font-size: x-large;
+    line-height: 1;
+    text-align: end;
+  }
